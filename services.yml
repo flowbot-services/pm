@@ -1,0 +1,1140 @@
+- name: 46elks
+  description: null
+  url: null
+
+- name: 4dem-it
+  description: null
+  url: null
+
+- name: abacus
+  description: null
+  url: null
+
+- name: actessentials
+  description: null
+  url: null
+
+- name: activecampaign
+  description: null
+  url: null
+
+- name: activecollab
+  description: null
+  url: null
+
+- name: activedemand
+  description: null
+  url: null
+
+- name: activedirectory
+  description: null
+  url: null
+
+- name: actpremium
+  description: null
+  url: null
+
+- name: acuityscheduling
+  description: null
+  url: null
+
+- name: adp
+  description: null
+  url: null
+
+- name: adroll
+  description: null
+  url: null
+
+- name: aeroleads
+  description: null
+  url: null
+
+- name: agendize
+  description: null
+  url: null
+
+- name: agile_crm
+  description: null
+  url: null
+
+- name: agilezen
+  description: null
+  url: null
+
+- name: aha
+  description: null
+  url: null
+
+- name: aim
+  description: null
+  url: null
+
+- name: airbrake
+  description: null
+  url: null
+
+- name: airtable
+  description: null
+  url: null
+
+- name: akna
+  description: null
+  url: null
+
+- name: alterdesk
+  description: null
+  url: null
+
+- name: amazon_s3
+  description: null
+  url: null
+
+- name: amazoncloudfront
+  description: null
+  url: null
+
+- name: amazoncloudwatch
+  description: null
+  url: null
+
+- name: amazondynamodb
+  description: null
+  url: null
+
+- name: amazonec2
+  description: null
+  url: null
+
+- name: amazonrds
+  description: null
+  url: null
+
+- name: amazonredshift
+  description: null
+  url: null
+
+- name: amazons3
+  description: null
+  url: null
+
+- name: amazonses
+  description: null
+  url: null
+
+- name: amazonsns
+  description: null
+  url: null
+
+- name: amazonsqs
+  description: null
+  url: null
+
+- name: ambassador
+  description: null
+  url: null
+
+- name: amcards
+  description: null
+  url: null
+
+- name: amocrm
+  description: null
+  url: null
+
+- name: analyticcalltracking
+  description: null
+  url: null
+
+- name: angellist
+  description: null
+  url: null
+
+- name: anymeeting
+  description: null
+  url: null
+
+- name: app-net
+  description: null
+  url: null
+
+- name: appointlet
+  description: null
+  url: null
+
+- name: apteligent
+  description: null
+  url: null
+
+- name: apttus
+  description: null
+  url: null
+
+- name: asana
+  description: null
+  url: null
+
+- name: asknicely
+  description: null
+  url: null
+
+- name: assessmentgenerator
+  description: null
+  url: null
+
+- name: authorize-net
+  description: null
+  url: null
+
+- name: autopilot
+  description: null
+  url: null
+
+- name: autotask
+  description: null
+  url: null
+
+- name: avaza
+  description: null
+  url: null
+
+- name: aweber
+  description: null
+  url: null
+
+- name: aws_lambda
+  description: null
+  url: null
+
+- name: awslambda
+  description: null
+  url: null
+
+- name: axosoft
+  description: null
+  url: null
+
+- name: azendoo
+  description: null
+  url: null
+
+- name: bamboohr
+  description: null
+  url: null
+
+- name: barcloud
+  description: null
+  url: null
+
+- name: base
+  description: null
+  url: null
+
+- name: basecamp
+  description: null
+  url: null
+
+- name: batchbook
+  description: null
+  url: null
+
+- name: beanstalk
+  description: null
+  url: null
+
+- name: bettervoice
+  description: null
+  url: null
+
+- name: bigcommerce
+  description: null
+  url: null
+
+- name: bigtincan
+  description: null
+  url: null
+
+- name: bill
+  description: null
+  url: null
+
+- name: bitbucket
+  description: null
+  url: null
+
+- name: bitly
+  description: null
+  url: null
+
+- name: biztera
+  description: null
+  url: null
+
+- name: blogger
+  description: null
+  url: null
+
+- name: boingnet
+  description: null
+  url: null
+
+- name: box
+  description: null
+  url: null
+
+- name: braintree
+  description: null
+  url: null
+
+- name: brickftp
+  description: null
+  url: null
+
+- name: buffer
+  description: null
+  url: null
+
+- name: calendly
+  description: null
+  url: null
+
+- name: campaign-monitor
+  description: null
+  url: null
+
+- name: campfire
+  description: null
+  url: null
+
+- name: capsulecrm
+  description: null
+  url: null
+
+- name: chargify
+  description: null
+  url: null
+
+- name: cisco_spark
+  description: null
+  url: null
+
+- name: clearbit
+  description: null
+  url: null
+
+- name: clock
+  description: null
+  url: null
+
+- name: close-io
+  description: null
+  url: null
+
+- name: cloud_watch
+  description: null
+  url: null
+
+- name: codeship
+  description: null
+  url: null
+
+- name: concur
+  description: null
+  url: null
+
+- name: confluence
+  description: null
+  url: null
+
+- name: constant-contact
+  description: null
+  url: null
+
+- name: csv_parser
+  description: null
+  url: null
+
+- name: demandware
+  description: null
+  url: null
+
+- name: deputy
+  description: null
+  url: null
+
+- name: disqus
+  description: null
+  url: null
+
+- name: docparser
+  description: null
+  url: null
+
+- name: docusign
+  description: null
+  url: null
+
+- name: dropbox
+  description: null
+  url: null
+
+- name: email
+  description: null
+  url: null
+
+- name: etapestry
+  description: null
+  url: null
+
+- name: eventbrite
+  description: null
+  url: null
+
+- name: evernote
+  description: null
+  url: null
+
+- name: expensify
+  description: null
+  url: null
+
+- name: facebook
+  description: null
+  url: null
+
+- name: fairsail
+  description: null
+  url: null
+
+- name: feedly
+  description: null
+  url: null
+
+- name: file_connector
+  description: null
+  url: null
+
+- name: financialforce
+  description: null
+  url: null
+
+- name: forcecom
+  description: null
+  url: null
+
+- name: freeagent
+  description: null
+  url: null
+
+- name: freshbooks
+  description: null
+  url: null
+
+- name: freshdesk
+  description: null
+  url: null
+
+- name: freshmail
+  description: null
+  url: null
+
+- name: freshservice
+  description: null
+  url: null
+
+- name: ftps
+  description: null
+  url: null
+
+- name: fulcrum
+  description: null
+  url: null
+
+- name: fullcontact
+  description: null
+  url: null
+
+- name: getresponse
+  description: null
+  url: null
+
+- name: getsatisfaction
+  description: null
+  url: null
+
+- name: github
+  description: null
+  url: null
+
+- name: gmail
+  description: null
+  url: null
+
+- name: google-calendar
+  description: null
+  url: null
+
+- name: google-contacts
+  description: null
+  url: null
+
+- name: google-sheets
+  description: null
+  url: null
+
+- name: google_drive
+  description: null
+  url: null
+
+- name: goombal
+  description: null
+  url: null
+
+- name: goto_webinar
+  description: null
+  url: null
+
+- name: graphs_and_charts
+  description: null
+  url: null
+
+- name: gusto
+  description: null
+  url: null
+
+- name: hipchat
+  description: null
+  url: null
+
+- name: hubspot
+  description: null
+  url: null
+
+- name: ibm_workspace
+  description: null
+  url: null
+
+- name: infusionsoft
+  description: null
+  url: null
+
+- name: insightly
+  description: null
+  url: null
+
+- name: intacct
+  description: null
+  url: null
+
+- name: intercom
+  description: null
+  url: null
+
+- name: jenkins
+  description: null
+  url: null
+
+- name: jira
+  description: null
+  url: null
+
+- name: jira_secondary
+  description: null
+  url: null
+
+- name: jira_service_desk
+  description: null
+  url: null
+
+- name: jms
+  description: null
+  url: null
+
+- name: jobscience
+  description: null
+  url: null
+
+- name: jobvite
+  description: null
+  url: null
+
+- name: json_parser
+  description: null
+  url: null
+
+- name: kenandy
+  description: null
+  url: null
+
+- name: kissmetrics
+  description: null
+  url: null
+
+- name: knack
+  description: null
+  url: null
+
+- name: librato
+  description: null
+  url: null
+
+- name: linked_objects
+  description: null
+  url: null
+
+- name: linkedin
+  description: null
+  url: null
+
+- name: logger
+  description: null
+  url: null
+
+- name: lookup_table
+  description: null
+  url: null
+
+- name: magento
+  description: null
+  url: null
+
+- name: mailchimp
+  description: null
+  url: null
+
+- name: marketo
+  description: null
+  url: null
+
+- name: marketo_secondary
+  description: null
+  url: null
+
+- name: microsoft_dynamics_crm
+  description: null
+  url: null
+
+- name: microsoftdynamicscrm
+  description: null
+  url: null
+
+- name: mixpanel
+  description: null
+  url: null
+
+- name: moxtra
+  description: null
+  url: null
+
+- name: mssql
+  description: null
+  url: null
+
+- name: mysql
+  description: null
+  url: null
+
+- name: name_formatter
+  description: null
+  url: null
+
+- name: namely
+  description: null
+  url: null
+
+- name: nationbuilder
+  description: null
+  url: null
+
+- name: netsuite
+  description: null
+  url: null
+
+- name: netsuite_secondary
+  description: null
+  url: null
+
+- name: new_relic
+  description: null
+  url: null
+
+- name: okta
+  description: null
+  url: null
+
+- name: onedrive
+  description: null
+  url: null
+
+- name: onenote
+  description: null
+  url: null
+
+- name: onprem_files
+  description: null
+  url: null
+
+- name: oracle
+  description: null
+  url: null
+
+- name: oracle_ebs
+  description: null
+  url: null
+
+- name: outlook
+  description: null
+  url: null
+
+- name: pagerduty
+  description: null
+  url: null
+
+- name: parsehub
+  description: null
+  url: null
+
+- name: paypal
+  description: null
+  url: null
+
+- name: pingdom
+  description: null
+  url: null
+
+- name: pipedrive
+  description: null
+  url: null
+
+- name: pivotal_tracker
+  description: null
+  url: null
+
+- name: podio
+  description: null
+  url: null
+
+- name: postgresql
+  description: null
+  url: null
+
+- name: product_hunt
+  description: null
+  url: null
+
+- name: prontoforms
+  description: null
+  url: null
+
+- name: prosperworks
+  description: null
+  url: null
+
+- name: proworkflow
+  description: null
+  url: null
+
+- name: purechat
+  description: null
+  url: null
+
+- name: pushbullet
+  description: null
+  url: null
+
+- name: qortex
+  description: null
+  url: null
+
+- name: quaderno
+  description: null
+  url: null
+
+- name: quickbase
+  description: null
+  url: null
+
+- name: quickbase_secondary
+  description: null
+  url: null
+
+- name: quickbooks
+  description: null
+  url: null
+
+- name: quickfile
+  description: null
+  url: null
+
+- name: quickmail_io
+  description: null
+  url: null
+
+- name: quip
+  description: null
+  url: null
+
+- name: raisers_edge_nxt
+  description: null
+  url: null
+
+- name: rally
+  description: null
+  url: null
+
+- name: reddit
+  description: null
+  url: null
+
+- name: redshift
+  description: null
+  url: null
+
+- name: regonline
+  description: null
+  url: null
+
+- name: replicon
+  description: null
+  url: null
+
+- name: rest
+  description: null
+  url: null
+
+- name: rest_oauth
+  description: null
+  url: null
+
+- name: revel_systems
+  description: null
+  url: null
+
+- name: ringcentral
+  description: null
+  url: null
+
+- name: rollbar
+  description: null
+  url: null
+
+- name: sagelive
+  description: null
+  url: null
+
+- name: salesforce
+  description: null
+  url: null
+
+- name: salesforce_secondary
+  description: null
+  url: null
+
+- name: sendgrid
+  description: null
+  url: null
+
+- name: service_max
+  description: null
+  url: null
+
+- name: service_now
+  description: null
+  url: null
+
+- name: service_now_secondary
+  description: null
+  url: null
+
+- name: servicem8
+  description: null
+  url: null
+
+- name: sftp
+  description: null
+  url: null
+
+- name: shopify
+  description: null
+  url: null
+
+- name: showpad
+  description: null
+  url: null
+
+- name: slack
+  description: null
+  url: null
+
+- name: slack_bot
+  description: null
+  url: null
+
+- name: slack_secondary
+  description: null
+  url: null
+
+- name: smartsheet
+  description: null
+  url: null
+
+- name: sms
+  description: null
+  url: null
+
+- name: splunk
+  description: null
+  url: null
+
+- name: steelbrick
+  description: null
+  url: null
+
+- name: stripe
+  description: null
+  url: null
+
+- name: surveymonkey
+  description: null
+  url: null
+
+- name: taskray
+  description: null
+  url: null
+
+- name: teams_bot
+  description: null
+  url: null
+
+- name: toggl
+  description: null
+  url: null
+
+- name: tradeshift
+  description: null
+  url: null
+
+- name: trello
+  description: null
+  url: null
+
+- name: tsheets
+  description: null
+  url: null
+
+- name: twilio
+  description: null
+  url: null
+
+- name: twitter
+  description: null
+  url: null
+
+- name: unbounce
+  description: null
+  url: null
+
+- name: upwork
+  description: null
+  url: null
+
+- name: utility
+  description: null
+  url: null
+
+- name: veeva
+  description: null
+  url: null
+
+- name: vend
+  description: null
+  url: null
+
+- name: vlocity
+  description: null
+  url: null
+
+- name: wachete
+  description: null
+  url: null
+
+- name: watershedlrs
+  description: null
+  url: null
+
+- name: watson_tone_analyzer
+  description: null
+  url: null
+
+- name: wave
+  description: null
+  url: null
+
+- name: webflow
+  description: null
+  url: null
+
+- name: webmerge
+  description: null
+  url: null
+
+- name: wisepops
+  description: null
+  url: null
+
+- name: wishpond
+  description: null
+  url: null
+
+- name: wistia
+  description: null
+  url: null
+
+- name: woocommerce
+  description: null
+  url: null
+
+- name: wordpress
+  description: null
+  url: null
+
+- name: workable
+  description: null
+  url: null
+
+- name: workato_app
+  description: null
+  url: null
+
+- name: workato_custom_code
+  description: null
+  url: null
+
+- name: workato_list
+  description: null
+  url: null
+
+- name: workato_mapper
+  description: null
+  url: null
+
+- name: workato_pub_sub
+  description: null
+  url: null
+
+- name: workato_service
+  description: null
+  url: null
+
+- name: workato_track
+  description: null
+  url: null
+
+- name: workboard
+  description: null
+  url: null
+
+- name: workday
+  description: null
+  url: null
+
+- name: workflow
+  description: null
+  url: null
+
+- name: workingon
+  description: null
+  url: null
+
+- name: wrike
+  description: null
+  url: null
+
+- name: wufoo
+  description: null
+  url: null
+
+- name: wunderlist
+  description: null
+  url: null
+
+- name: xero
+  description: null
+  url: null
+
+- name: xmatters
+  description: null
+  url: null
+
+- name: xml_parser
+  description: null
+  url: null
+
+- name: yammer
+  description: null
+  url: null
+
+- name: youcanbookme
+  description: null
+  url: null
+
+- name: youtube
+  description: null
+  url: null
+
+- name: yumpu
+  description: null
+  url: null
+
+- name: zendesk
+  description: null
+  url: null
+
+- name: zendesk_secondary
+  description: null
+  url: null
+
+- name: zendirect
+  description: null
+  url: null
+
+- name: zenefits
+  description: null
+  url: null
+
+- name: zengine
+  description: null
+  url: null
+
+- name: zoho-creator
+  description: null
+  url: null
+
+- name: zoho-projects
+  description: null
+  url: null
+
+- name: zoho-reports
+  description: null
+  url: null
+
+- name: zoho-subscriptions
+  description: null
+  url: null
+
+- name: zoho_invoice
+  description: null
+  url: null
+
+- name: zohocrm
+  description: null
+  url: null
+
+- name: zoom
+  description: null
+  url: null
+
+- name: zuora_forcecom
+  description: null
+  url: null
+

@@ -1,2 +1,3 @@
 # pm
-Project management and discussion for the flowbot-services organization.
+
+Project management, discussion and planning for Flowbot Services.
